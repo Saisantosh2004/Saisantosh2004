@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Santosh</h1>
-<h3 align="center">A Passionate Programmer</h3>
+<h3 align="center">👋 Hey there! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) passionate about technology and innovation.
+<br>
+  💡 I thrive on solving complex problems and crafting creative solutions using my technical and analytical abilities. I'm always on the lookout for opportunities to learn and grow in the realms of Web Development, Machine Learning, and Competitive Programming.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisantosh2004&label=Profile%20views&color=0e75b6&style=flat" alt="saisantosh2004" /> </p>
 
