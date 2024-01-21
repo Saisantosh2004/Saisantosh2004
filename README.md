@@ -9,6 +9,9 @@
 - 📫 How to reach me **bonagirisaisantosh2004@gmail.com**
 - 📫 My Portfolio **https://portfolio-saisantosh2004.vercel.app**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saisantosh2004" alt="Saisantosh2004" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saisantoshb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisantoshb" height="30" width="40" /></a>
