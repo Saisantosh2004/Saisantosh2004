@@ -50,6 +50,10 @@
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
+## 🔥 Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisantosh2004&layout=compact&theme=github_dark"><br>
+[![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saisantosh2004&theme=react-dark)](https://github.com/Saisantosh2004/github-readme-activity-graph)
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
