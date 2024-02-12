@@ -5,7 +5,6 @@
   
 👋 Hey there! I'm a Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT) passionate about technology and innovation.
 💡 I thrive on solving complex problems and crafting creative solutions using my technical and analytical abilities. I'm always on the lookout for opportunities to learn and grow in the realms of Web Development, Machine Learning, and Competitive Programming.
-- 📫 How to reach me **bonagirisaisantosh2004@gmail.com**
 - 📫 My Portfolio **https://portfolio-saisantosh2004.vercel.app**
 
 [![](https://visitcount.itsvg.in/api?id=Saisantosh2004&icon=5&color=1)](https://visitcount.itsvg.in)
